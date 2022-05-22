@@ -1,8 +1,9 @@
 # AM-2022.1
 ## Questão 1
 
-Considere os dados "Avila Data Set" (Data set e artigo relevante em anexo) do site uci machine learning
-repository (https://archive.ics.uci.edu/ml/datasets/Avila. Fusione os arquivos avila-tr.txt e avila-ts.txt no
+*Considere os dados "Avila Data Set" (Data set e artigo relevante em anexo) do site uci machine learning
+repository (https://archive.ics.uci.edu/ml/datasets/Avila.*
+Fusione os arquivos avila-tr.txt e avila-ts.txt no
 arquivo avila.txt, DESCONSIDERANDO a variavel de classe (os rotulos). A partir do arquivo avila.txt
 produza 3 matrizes de dissililaridade usando a distancia Euclidiana (L2), a distancia de city-block (L1) e a
 distancia de Chebyshev (Linf).
