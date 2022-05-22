@@ -19,4 +19,4 @@ algoritmo VFCMddV (pagina 119, coluna 1, terceiro paragrafo);
 Parametros: k = 12; T = 150;  = 10−10;
 Para o melhor resultado imprimir: i) os protótipos ii) a matrix de confusão da partição crisp
 versus a partição a priori; iv) a matrix de pesos de relevância das matrizes de
-dissimilaridade.
+dissimilaridade
