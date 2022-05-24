@@ -2,6 +2,7 @@ from argparse import ArgumentParser
 import string
 import os
 import sys
+import csv
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
@@ -23,8 +24,10 @@ def main():
     output_subpath = args.output
     root_path = conf.ROOT_DIR
     output_path = os.path.join(root_path, output_subpath)
-    print(output_path)
-
+    
+    if mode == 'no_class':
+        
+        
 
 if __name__ == '__main__':
     main()
